@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+}
+
+.inputs{
+    background-color: beige;
+    padding: 10px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+@media (max-width:768px) {
+
+    body{
+        background-color: aquamarine;
+    }
+    
+}
+
